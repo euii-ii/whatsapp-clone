@@ -24,7 +24,7 @@ A functional and visually appealing WhatsApp clone built using HTML, CSS, and Ja
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/whatsapp-clone.git
+   git clone https://github.com/euii-ii/whatsapp-clone.git
    ```
 3. Open `index.html` in your preferred browser:
    ```bash
